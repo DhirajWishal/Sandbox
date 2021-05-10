@@ -1,0 +1,7 @@
+Kandy,Colombo,110
+Dehiwela,Ratmalana,5
+Dehiwela,Colombo,7.2
+Dehiwela,Wellawatte,1.5
+Wellawatte,Ratmalana,6
+Galle,Kandy,110
+Matara,Dehiwela,150
